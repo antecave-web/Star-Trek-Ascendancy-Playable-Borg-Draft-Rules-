@@ -128,11 +128,10 @@ A Disabled Cube:
 * remains in its current system
 * cannot move
 * cannot attack
-* cannot defend
 * cannot perform actions
-* cannot be targeted by further attacks
+* cannot be the target of further attacks until its reactivated
 
-Disabled Cubes automatically repair **1 damage** each Borg turn.
+Disabled Cubes automatically repair **1 damage** at start of each Borg turn.
 
 The Borg may spend up to **2 additional resources** each turn repairing a Disabled Cube.
 
