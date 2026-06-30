@@ -234,3 +234,103 @@ The faction is built around four core principles:
 * **Slow** — Every important action is a long-term project.
 * **Adaptive** — The Borg become stronger by interacting with other civilizations rather than researching independently.
 * **Inevitable** — The Borg cannot easily be reversed, only delayed.
+
+---
+
+# Design Notes
+
+The official Borg expansion succeeds in making the Borg feel dangerous, but relies heavily on automated behavior, bookkeeping, and exceptional rules. This redesign instead asks a different question:
+
+*What if the Borg were a normal playable faction?*
+
+The goal is not to simulate every aspect of Borg lore, but to recreate the strategic experience of commanding the Collective while preserving as much of Star Trek: Ascendancy's core rules as possible.
+
+Consequently, nearly every rule in this redesign exists to reinforce one of four design pillars.
+
+**The Borg Are Slow**
+
+The Borg should never feel explosive.
+
+Unlike the other civilizations, the Collective does not rapidly expand across the map or field large numbers of ships. Every significant achievement is instead a long-term project requiring sustained investment.
+
+Cube construction, repairing disabled Cubes, assimilating colonies, stealing technology and adapting to enemy technology all require multiple turns to complete.
+
+The intention is that the Borg player constantly chooses where to allocate the Collective's industrial capacity rather than accumulating resources for occasional bursts of activity.
+
+**The Borg Are Relentless**
+
+Defeating the Borg should buy time, not permanently solve the problem.
+
+Assimilated colonies are permanent and cannot be liberated. However, their infrastructure can be destroyed, denying resources until rebuilt. Likewise, Cubes are disabled rather than destroyed, eventually returning to service after sufficient repairs.
+
+This shifts the strategic objective when fighting the Borg.
+
+Rather than reclaiming lost territory, opponents seek to delay the Collective long enough to achieve their own victory conditions.
+
+**The Borg Learn Through Contact**
+
+Unlike every other civilization, the Borg perform no conventional research.
+
+Instead, technological progress is earned through interaction with other civilizations.
+
+Winning battles allows the Collective to assimilate enemy technology, while repeated combat creates opportunities to adapt against enemy capabilities.
+
+This encourages the Borg player to actively seek contact with every civilization rather than remaining isolated.
+
+At the same time, it creates an evolving strategic identity unique to each game, determined by which civilizations have been encountered and what technologies have been assimilated.
+
+**The Borg Expand Differently**
+
+The Borg are not explorers or colonists in the conventional sense.
+
+They are interested only in civilizations worth assimilating.
+
+For this reason, they cannot colonize empty worlds and instead expand by overwhelming existing colonies and warp-capable civilizations.
+
+Their victory condition reflects this philosophy.
+
+Rather than pursuing Ascendancy, the Borg seek to assimilate every opposing homeworld.
+
+Expansion is therefore deliberate, directional and irreversible.
+
+**Permanent Consequences**
+
+Several mechanics intentionally create consequences that cannot simply be undone.
+
+Assimilated worlds remain assimilated.
+
+Defeated civilizations become Resistance movements rather than returning to normal play.
+
+Adapted technologies remain ineffective against the Borg.
+
+The objective is to create a sense that every successful Borg advance permanently changes the strategic landscape, even if the Collective itself can still be delayed or contained.
+
+**Production Instead of Wealth**
+
+The Borg do not store resources.
+
+This is intentional.
+
+Resources represent the Collective's current productive capacity rather than accumulated wealth.
+
+Every turn the Borg player decides how that production should be allocated among competing long-term projects.
+
+The intended experience is one of continuously directing an enormous industrial machine rather than managing an expanding treasury.
+
+**Preserve the Core Game**
+
+Whenever possible, this redesign reuses existing Star Trek: Ascendancy mechanics rather than introducing new subsystems.
+
+Combat, invasions, encounters, Resistance, technology costs and civilization upgrades all function according to the official rules unless explicitly modified.
+
+The intention is that experienced players should already understand most of the game before learning the Borg-specific rules, but find them intuitiveley familiar.
+
+**Final Thoughts**
+
+*The Borg are designed around time rather than power.*
+
+Every faction in Ascendancy becomes stronger by accumulating more — more ships, more colonies, more technologies, more resources.
+
+Instead my Borg become stronger by making irreversible progress over time. Time builds cubes. Time repairs cubes. Time assimilates worlds. Time steals technology. Time creates adaptation. Time cannot be reversed.
+
+Most of my rules ended up being about pacing rather than statistics. I rarely asked, "Should the cube have another die?" Instead, I repeatedly asked, "How long should this take?".
